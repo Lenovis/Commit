@@ -1,0 +1,16 @@
+.container{
+  text-align: center;
+  display: flex;
+}
+.head{
+  background: #9900cc;
+  flex: 1;
+}
+.body{
+  background: #ccccff;
+  flex: 10;
+}
+.footer{
+  background: #9900cc;
+  flex: 1;
+}
